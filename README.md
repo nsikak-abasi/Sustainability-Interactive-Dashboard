@@ -1,1 +1,1 @@
-# Sustainability-Interactive-Dashboard
+This project aims to develop a web crawler and visualization dashboard to map the university’s courses, faculty research, and sustainability and climate justice projects in order to create a comprehensive, searchable representation of the university’s efforts to improve its sustainability ranking in the Association for the Advancement of Sustainability in Higher Education’s (AASHE) Sustainability Tracking, Assessment & Rating System (STARS), where it currently holds a Silver designation.
